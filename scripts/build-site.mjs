@@ -15,8 +15,8 @@ for (const page of ["index.html", "privacy.html"]) {
     const replacements = [
       ["7 dagen gratis <span", "Probeer een gratis demo <span"],
       ["Start je gratis proefperiode ↗", "Probeer een gratis demo ↗"],
-      ["Wij richten jouw WhatsApp-assistent in. Daarna probeer je hem 7 dagen gratis.", "Bekijk hoe Lead Winner voor jouw bedrijf kan werken met een gratis demo."],
       ["Wij richten jouw WhatsApp-assistent in. Daarna probeer je hem 7 dagen gratis, inclusief opvolging van gemiste oproepen.", "Ontdek in een gratis demo hoe Lead Winner klantvragen beantwoordt en aanvragen opvolgt."],
+      ["Wij richten jouw WhatsApp-assistent in. Daarna probeer je hem 7 dagen gratis.", "Bekijk hoe Lead Winner voor jouw bedrijf kan werken met een gratis demo."],
       ["Hoe werkt de gratis proefperiode?", "Hoe werkt de gratis demo?"],
       ["Je vraagt de proefperiode aan via WhatsApp. We stemmen de assistent af op jouw bedrijf en testen de inrichting. Zodra de assistent werkt, starten jouw 7 gratis dagen, inclusief opvolging van gemiste oproepen. Vooraf bespreken we de kosten en voorwaarden voor gebruik na de proefperiode.", "Vraag de gratis demo aan via WhatsApp. We laten zien hoe Lead Winner voor jouw bedrijf klantvragen beantwoordt en aanvragen opvolgt. Je zit nergens aan vast."],
       ["Aanvragen via WhatsApp · De 7 dagen starten zodra je assistent werkt", "Vraag vrijblijvend je gratis demo aan via WhatsApp"],
